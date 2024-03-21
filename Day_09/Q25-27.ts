@@ -43,24 +43,3 @@ alien_color = 'red';
     else{
     console.log('Player Just Earned 15 Points')};
 
-
-//Question 28:
-console.log('\n');
-const  Age = 65;
-if (Age < 2) {
-    console.log("The Peron is Baby")
-}
-else if (Age <4) {
-    console.log("The Peron is Toddler")
-}
-else if (Age < 13) {
-    console.log("The Peron is Kid")
-}
-else if (Age < 20) {
-    console.log("The Peron is TeenAger")
-}
-else if (Age < 65) {
-    console.log("The Peron is Adult")
-    }
-else {
-        console.log("The Peron is Elder")};
